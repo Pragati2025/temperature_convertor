@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+ font-weight:bold;
+  font-size:23px;
+}
+
+input, button {
+  padding: 5px;
+  margin:10px;
+  font-weight:bold;
+  background-color:grey;
+  font-size:15px;
+  width:90px;
+}
+
+button {
+  cursor: pointer;
+ 
+}
+.sec1{
+  margin:10px ;
+  padding:5px;
+}
+.convert{
+  background-color:orangered;
+}
+.number-input{
+  background-color:skyblue;
+}
